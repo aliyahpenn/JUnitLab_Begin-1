@@ -18,5 +18,5 @@ public class GiftCardTest {
 
 		assertEquals("getIssuingStore()", issuingStore, card.getIssuingStore());
 	}
-
+/*Comment*/
 }
